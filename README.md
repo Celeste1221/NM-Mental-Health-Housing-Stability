@@ -105,18 +105,6 @@ Potential extensions of this project include:
 - Applying cross-validation and additional model evaluation techniques
 - Building an interactive dashboard for policymakers and nonprofit organizations
 
-## Repository Structure
-
-```text
-├── data/
-│   └── raw/
-├── src/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   └── 03_modeling.ipynb
-└── README.md
-```
-
 ## Skills Demonstrated
 
 - Data Cleaning and Preparation

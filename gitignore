@@ -1,0 +1,25 @@
+# Google Drive pointer files
+*.gdoc
+*.gsheet
+*.gslides
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Raw source files not required to reproduce the primary analysis
+data/raw/HRSA_Data_Warehouse-Data_Downloads-Health_Sites-Daily_06052026.xlsx
+
+# Reference reports
+data/raw/nm-coalition-to-end-homelessness_2025-pit-report.pdf
+
+# Original notebook backups
+notebook_backups/

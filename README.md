@@ -6,6 +6,15 @@ This project investigates the relationship between mental healthcare access and 
 
 The project combines statistical modeling and machine learning techniques to identify important predictors of housing burden and explore patterns among counties that may inform public policy and resource allocation.
 
+## Project Contributors
+
+This data science capstone was developed collaboratively by three team members. The project involved data collection, cleaning, exploratory data analysis, statistical modeling, machine learning, and interpretation of findings.
+
+**Contributors:**
+- [@Celeste1221](https://github.com/Celeste1221)
+- [@eljaysmithdata](https://github.com/eljaysmithdata)
+- [@raven-in-space](https://github.com/raven-in-space)
+
 ## Research Question
 
 **What relationship, if any, exists between mental healthcare access and housing stability in New Mexico?**
